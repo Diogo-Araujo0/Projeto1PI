@@ -1,0 +1,109 @@
+﻿  Jogo1.c
+C:\Users\Diogo\Desktop\Projeto\Jogo1.c(9,31): warning C4013: 'generateRandomInt' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo1.c(10,11): warning C4013: 'clrscr' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo1.c(12,11): warning C4013: 'printf' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo1.c(13,10): warning C4013: 'scanf' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo1.c(69,12): warning C4013: 'getchar' indefinido; assumindo extern retornando int
+  Jogo2.c
+C:\Users\Diogo\Desktop\Projeto\Jogo2.c(8,31): warning C4013: 'generateRandomInt' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo2.c(11,11): warning C4013: 'clrscr' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo2.c(12,11): warning C4013: 'printf' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo2.c(13,10): warning C4013: 'scanf' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo2.c(99,12): warning C4013: 'getchar' indefinido; assumindo extern retornando int
+  Jogo3.c
+C:\Users\Diogo\Desktop\Projeto\Jogo3.c(2,8): warning C4013: 'clrscr' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo3.c(4,8): warning C4013: 'printf' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo3.c(13,7): warning C4013: 'scanf' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo3.c(28,31): warning C4013: 'generateRandomInt' indefinido; assumindo extern retornando int
+  Jogo4.c
+C:\Users\Diogo\Desktop\Projeto\Jogo4.c(2,11): warning C4013: 'clrscr' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo4.c(8,11): warning C4013: 'printf' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo4.c(9,10): warning C4013: 'scanf' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo4.c(25,32): warning C4013: 'generateRandomInt' indefinido; assumindo extern retornando int
+  Jogo4CPU.c
+C:\Users\Diogo\Desktop\Projeto\Jogo4CPU.c(2,11): warning C4013: 'clrscr' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo4CPU.c(10,11): warning C4013: 'printf' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo4CPU.c(11,10): warning C4013: 'scanf' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo4CPU.c(26,32): warning C4013: 'generateRandomInt' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo4CPU.c(244,12): warning C4013: 'getchar' indefinido; assumindo extern retornando int
+  Jogo5.c
+C:\Users\Diogo\Desktop\Projeto\Jogo5.c(2,11): warning C4013: 'clrscr' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo5.c(13,11): warning C4013: 'printf' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo5.c(14,10): warning C4013: 'scanf' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo5.c(19,32): warning C4013: 'strlen' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo5.c(185,12): warning C4013: 'getchar' indefinido; assumindo extern retornando int
+  Jogo8.c
+C:\Users\Diogo\Desktop\Projeto\Jogo8.c(27,34): warning C4013: 'RandomInteger' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo8.c(67,11): warning C4013: 'clrscr' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo8.c(175,13): warning C4098: 'jogo8': função 'void' retornando um valor
+C:\Users\Diogo\Desktop\Projeto\Jogo8.c(13,17): warning C4101: 'sum': variável local não referenciada
+C:\Users\Diogo\Desktop\Projeto\Jogo8.c(13,12): warning C4101: 'min': variável local não referenciada
+C:\Users\Diogo\Desktop\Projeto\Jogo8.c(13,9): warning C4101: 'l': variável local não referenciada
+  Jogo8CPU.c
+C:\Users\Diogo\Desktop\Projeto\Jogo8CPU.c(30,11): warning C4013: 'clrscr' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Jogo8CPU.c(139,13): warning C4098: 'jogo8CPU': função 'void' retornando um valor
+C:\Users\Diogo\Desktop\Projeto\Jogo8CPU.c(19,17): warning C4101: 'sum': variável local não referenciada
+C:\Users\Diogo\Desktop\Projeto\Jogo8CPU.c(19,12): warning C4101: 'min': variável local não referenciada
+C:\Users\Diogo\Desktop\Projeto\Jogo8CPU.c(19,9): warning C4101: 'l': variável local não referenciada
+  Projeto.c
+C:\Users\Diogo\Desktop\Projeto\Projeto.c(59,11): warning C4013: 'jogo1' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Projeto.c(62,11): warning C4013: 'jogo2' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Projeto.c(65,11): warning C4013: 'jogo3' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Projeto.c(72,12): warning C4013: 'jogo4' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Projeto.c(75,15): warning C4013: 'jogo4CPU' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Projeto.c(80,11): warning C4013: 'jogo5' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Projeto.c(91,12): warning C4013: 'jogo8' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Projeto.c(94,15): warning C4013: 'jogo8CPU' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Projeto.c(120,9): warning C4013: 'top1' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Projeto.c(123,9): warning C4013: 'top2' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Projeto.c(126,9): warning C4013: 'top3' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Projeto.c(133,10): warning C4013: 'top4' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Projeto.c(136,13): warning C4013: 'top4CPU' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Projeto.c(141,9): warning C4013: 'top5' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Projeto.c(153,10): warning C4013: 'top8' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Projeto.c(156,13): warning C4013: 'top8CPU' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Projeto.c(162,15): warning C4013: 'topPessoal' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Projeto.c(165,14): warning C4013: 'topGlobal' indefinido; assumindo extern retornando int
+  Top1.c
+C:\Users\Diogo\Desktop\Projeto\Top1.c(3,11): warning C4013: 'clrscr' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Top1.c(25,15): warning C4013: 'printf' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Top1.c(29,12): warning C4013: 'getchar' indefinido; assumindo extern retornando int
+  Top2.c
+C:\Users\Diogo\Desktop\Projeto\Top2.c(3,11): warning C4013: 'clrscr' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Top2.c(25,15): warning C4013: 'printf' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Top2.c(29,12): warning C4013: 'getchar' indefinido; assumindo extern retornando int
+  Top3.c
+C:\Users\Diogo\Desktop\Projeto\Top3.c(3,11): warning C4013: 'clrscr' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Top3.c(25,15): warning C4013: 'printf' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Top3.c(29,12): warning C4013: 'getchar' indefinido; assumindo extern retornando int
+  Top4.c
+C:\Users\Diogo\Desktop\Projeto\Top4.c(3,11): warning C4013: 'clrscr' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Top4.c(25,15): warning C4013: 'printf' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Top4.c(29,12): warning C4013: 'getchar' indefinido; assumindo extern retornando int
+  Top4CPU.c
+C:\Users\Diogo\Desktop\Projeto\Top4CPU.c(3,11): warning C4013: 'clrscr' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Top4CPU.c(25,15): warning C4013: 'printf' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Top4CPU.c(29,12): warning C4013: 'getchar' indefinido; assumindo extern retornando int
+  Top5.c
+C:\Users\Diogo\Desktop\Projeto\Top5.c(3,11): warning C4013: 'clrscr' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Top5.c(25,15): warning C4013: 'printf' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Top5.c(29,12): warning C4013: 'getchar' indefinido; assumindo extern retornando int
+  Top8.c
+C:\Users\Diogo\Desktop\Projeto\Top8.c(3,11): warning C4013: 'clrscr' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Top8.c(25,15): warning C4013: 'printf' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Top8.c(29,12): warning C4013: 'getchar' indefinido; assumindo extern retornando int
+  Top8CPU.c
+C:\Users\Diogo\Desktop\Projeto\Top8CPU.c(3,11): warning C4013: 'clrscr' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Top8CPU.c(25,15): warning C4013: 'printf' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\Top8CPU.c(29,12): warning C4013: 'getchar' indefinido; assumindo extern retornando int
+  TopGlobal.c
+C:\Users\Diogo\Desktop\Projeto\TopGlobal.c(3,11): warning C4013: 'clrscr' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\TopGlobal.c(32,15): warning C4013: 'printf' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\TopGlobal.c(36,12): warning C4013: 'getchar' indefinido; assumindo extern retornando int
+  TopPessoal.c
+C:\Users\Diogo\Desktop\Projeto\TopPessoal.c(2,11): warning C4013: 'clrscr' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\TopPessoal.c(4,11): warning C4013: 'printf' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\TopPessoal.c(5,10): warning C4013: 'scanf' indefinido; assumindo extern retornando int
+C:\Users\Diogo\Desktop\Projeto\TopPessoal.c(24,12): warning C4013: 'getchar' indefinido; assumindo extern retornando int
+  Gerando Código...
+  ProjetoPI.vcxproj -> C:\Users\Diogo\source\repos\ProjetoPI\Debug\ProjetoPI.exe
